@@ -6,8 +6,8 @@
 <p>2. Customer Segmentation</p>
 <p>3. Cross-Country Analysis</p>
 <p>4. Forecasting</p>
-
-
+<br>
+<br>
 <p>The final goal of the project is to provide insights for the business teams responsible for the decision making.</p>
 <p>There will be techniques that can be applied to any marketing dataset as well as models for callsification and time-series forecasting.</p> 
 
