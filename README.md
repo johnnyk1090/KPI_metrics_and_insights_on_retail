@@ -2,9 +2,9 @@
 
 <p id="description">The following project will perform a complete Exploratory Data Analysis (EDA) on an extensive online retail dataset. More specifically the project will have the following chapters:</p> 
 <p    
-1. Sales and Revenue Analysis
-2. Customer Segmentation
-3. Cross-Country Analysis
+1. Sales and Revenue Analysis<br>
+2. Customer Segmentation<br>
+3. Cross-Country Analysis<br>
 4. Forecasting
 </p>
 
