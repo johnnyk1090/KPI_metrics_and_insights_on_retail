@@ -1,12 +1,11 @@
 <h1 align="center" id="title">KPI_metrics_and_insights_on_retail</h1>
 
 <p id="description">The following project will perform a complete Exploratory Data Analysis (EDA) on an extensive online retail dataset. More specifically the project will have the following chapters:</p> 
-<p    
-1. Sales and Revenue Analysis<br>
-2. Customer Segmentation<br>
-3. Cross-Country Analysis<br>
-4. Forecasting
-</p>
+    
+<p1. Sales and Revenue Analysis</p>
+<p2. Customer Segmentation</p>
+<p3. Cross-Country Analysis</p>
+<p4. Forecasting</p>
 
 <p
 The final goal of the project is to provide insights for the business teams responsible for the decision making.
