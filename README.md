@@ -2,13 +2,13 @@
 
 <p id="description">The following project will perform a complete Exploratory Data Analysis (EDA) on an extensive online retail dataset. More specifically the project will have the following chapters:</p> 
     
-<p 1. Sales and Revenue Analysis</p>
-<p 2. Customer Segmentation</p>
-<p 3. Cross-Country Analysis</p>
-<p 4. Forecasting</p>
+<p>1. Sales and Revenue Analysis</p>
+<p>2. Customer Segmentation</p>
+<p>3. Cross-Country Analysis</p>
+<p>4. Forecasting</p>
 
-<p The final goal of the project is to provide insights for the business teams responsible for the decision making.</p>
-<p There will be techniques that can be applied to any marketing dataset as well as models for callsification and time-series forecasting.</p> 
+<p>The final goal of the project is to provide insights for the business teams responsible for the decision making.</p>
+<p>There will be techniques that can be applied to any marketing dataset as well as models for callsification and time-series forecasting.</p> 
 
     
 <h2>🧐 Features</h2>
