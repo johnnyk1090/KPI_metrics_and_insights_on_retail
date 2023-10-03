@@ -13,7 +13,6 @@
 <p>There will be techniques that can be applied to any marketing dataset as well as models for classification and time-series forecasting.</p> 
 
 <br>
-<br>
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
