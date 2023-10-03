@@ -12,13 +12,16 @@
 <p>The final goal of the project is to provide insights for the business teams responsible for the decision making.</p>
 <p>There will be techniques that can be applied to any marketing dataset as well as models for classification and time-series forecasting.</p> 
 
-    
+<br>
+<br>
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
 
-*   SOTA Data Visualization 
-*   Scikit-Learn Data Normalization
+*   SOTA Data Visualization (Interactive Dashboards)
+*   Dask Framework Usage
+*   SOTA classification algorithm (Extreme Gradient Boosting)
+*   SOTA forecasting algorithm (Prophet)
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -37,4 +40,10 @@ Technologies used in the project:
 *   Pandas
 *   Matplotlib
 *   Seaborn
+*   Plotly
 *   Scikit-Learn
+*   Dask
+*   Joblib
+*   Xgboost
+*   Itertools
+*   Prophet
