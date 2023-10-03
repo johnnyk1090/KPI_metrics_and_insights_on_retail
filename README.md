@@ -1,6 +1,7 @@
 <h1 align="center" id="title">KPI_metrics_and_insights_on_retail</h1>
 
-<p id="description">The following project will perform a complete Exploratory Data Analysis (EDA) on an extensive online retail dataset. More specifically the project will have the following chapters:</p> 
+<p id="description">The following project will perform a complete Exploratory Data Analysis (EDA) on an extensive online retail dataset. More specifically the project will have the following chapters:</p>
+<br>
     
 <p>1. Sales and Revenue Analysis</p>
 <p>2. Customer Segmentation</p>
